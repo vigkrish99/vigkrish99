@@ -2,7 +2,7 @@
 
 I build AI agent systems that replace manual business operations. I run [South Arc Digital](https://southarcdigital.com), a technical automation agency serving clients in the US and India.
 
-**Claude Code CLI** is my primary development environment. I ship production systems daily.
+**Claude Code CLI** is my primary development environment. 
 
 ---
 
